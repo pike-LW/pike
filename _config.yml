@@ -9,7 +9,7 @@ name: Pike's Website
 description: Great stuff
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:http://media1.gameinformer.com/filestorage/CommunityServer.Components.SiteFiles/imagefeed/featured/gamer-culture/star-wars/death-trooper/roguedeath610.jpg
+avatar:"http://media1.gameinformer.com/filestorage/CommunityServer.Components.SiteFiles/imagefeed/featured/gamer-culture/star-wars/death-trooper/roguedeath610.jpg"
 
 #
 # Flags below are optional
