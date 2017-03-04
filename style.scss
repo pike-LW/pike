@@ -20,7 +20,7 @@ html {
 body {
 	background: url("http://vignette2.wikia.nocookie.net/starwars/images/f/f8/Scarif_base.png/revision/latest?cb=20161013122838");
 	font: 18px/1.4 $helvetica;
-    color: $darkGray;
+    color: #009933;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: #009933;
   font-weight: bold;
 
   line-height: 1.7;
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #009933;
 }
 
 p {
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #009933;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #009933;
   }
 }
 
@@ -117,17 +117,17 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #009933;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: #009933;
+  background: #009933;
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: #009933;
+  background: #009933;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -156,7 +156,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #009933;
 
   @include mobile {
     text-align: center;
@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #009933;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -225,14 +225,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #009933;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color:#009933;
     }
   }
 }
@@ -243,7 +243,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #009933;
 }
 
 .posts > .post:last-child {
@@ -254,9 +254,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid #009933;
     padding: 0.1em 1em;
-    color: $gray;
+    color: #009933;
     font-size: 22px;
     font-style: italic;
   }
